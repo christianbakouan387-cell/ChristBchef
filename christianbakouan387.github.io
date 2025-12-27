@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ChristBchef | Portfolio</title>
+    <title>BAKOUAN Christian Herbert Franklin | Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
