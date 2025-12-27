@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>BAKOUAN Christian Herbert Franklin | Portfolio</title>
+    <title>ChristBchef | Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>ChristBchef</h1>
+    <h1>BAKOUAN Christian Herbert Franklin</h1>
     <p>Aspiring Computer Science Student</p>
 </header>
 
