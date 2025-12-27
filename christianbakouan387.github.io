@@ -16,7 +16,7 @@
     <h2>About Me</h2>
     <p>
         I am a motivated student in preparatory class(MPSI) who aims to study Computer Science.
-        I have somes skills in programming, mathematics, and problem-solving. My studies in preparatory class allowed me to acquire the essentiel skills such as intellectual rigor, ability to adapt , effective working method and complex problem solving
+        I have somes skills in programming, mathematics, and problem-solving. My studies in preparatory class allowed me to acquire the essentiel skills such as intellectual rigor, ability to adapt , effective working method and complex problem solving.
         I am disciplined, curious, and committed to continuous learning.
     </p>
 </section>
@@ -25,9 +25,12 @@
     <h2>Skills</h2>
     <ul>
         <li><strong>Programming:</strong> Python (basic–intermediate)</li>
+        <li><strong>Sciences de l'Ingenieur:</strong> Technical drawing , automated systems ,mechanical design , computer architecture
         <li><strong>Foundations:</strong> Algorithms, Data Structures (basic)</li>
+        <li><strong>Tools:</strong> Git & Github ,  Microsoft Word , Excel , PowerPoint
         <li><strong>Mathematics:</strong> Logic, Analysis, Algebra</li>
-        <li><strong>Languages:</strong> English (Intermediate)</li>
+        <li><strong>Languages:</strong> English (Intermediate) , French (Fluent)</li>
+        <li><strong>Currently Learning:</strong> Web devellopment , Advanced Python Programming</li>
     </ul>
 </section>
 
